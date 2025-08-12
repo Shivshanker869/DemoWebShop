@@ -1,2 +1,2 @@
 # SeleniumAutomationProject
-This is Selenium project to given by Masai School 
+Automation framework for Demo Web Shop using Selenium WebDriver, Java, and TestNG with Page Object Model. 
