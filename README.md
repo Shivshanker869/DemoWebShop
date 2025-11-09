@@ -32,7 +32,7 @@ The goal of this project is to ensure the **functionality, reliability, and perf
   - Order History & Logout  
 
 📁 **Manual Testing Documents**
-
+```
 📂 Manual_Testing/
 ┣ 📄 Test_Plan.docx
 ┣ 📄 Test_Scenarios_and_Test_Cases.xlsx
@@ -40,7 +40,7 @@ The goal of this project is to ensure the **functionality, reliability, and perf
 ┣ 📄 Mind_Map.png
 ┣ 📄 Test_Summary_Report.docx
 
-
+```
 ---
 
 ### 🤖 Automation Testing
@@ -48,7 +48,7 @@ The goal of this project is to ensure the **functionality, reliability, and perf
 Automated the critical end-to-end user flows using **Selenium WebDriver, Java, and TestNG** following the **Page Object Model (POM)** structure for reusability and maintainability.
 
 📁 **Automation Framework Structure**
-
+```
 📂 DemoWebShop_Automation/
 ┣ 📂 src/main/java/
 ┃ ┣ 📂 pages/ # Page Object files (LoginPage, RegisterPage, CartPage, etc.)
@@ -59,7 +59,7 @@ Automated the critical end-to-end user flows using **Selenium WebDriver, Java, a
 ┣ 📄 testng.xml # Test suite configuration
 ┣ 📄 pom.xml # Maven dependencies
 ┣ 📄 README.md
-
+```
 
 🧩 **Key Features of Automation Framework**
 - Implemented **Page Object Model (POM)** for modular design.
