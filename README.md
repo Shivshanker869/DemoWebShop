@@ -32,6 +32,7 @@ The goal of this project is to ensure the **functionality, reliability, and perf
   - Order History & Logout  
 
 📁 **Manual Testing Documents**
+
 📂 Manual_Testing/
 ┣ 📄 Test_Plan.docx
 ┣ 📄 Test_Scenarios_and_Test_Cases.xlsx
@@ -47,6 +48,7 @@ The goal of this project is to ensure the **functionality, reliability, and perf
 Automated the critical end-to-end user flows using **Selenium WebDriver, Java, and TestNG** following the **Page Object Model (POM)** structure for reusability and maintainability.
 
 📁 **Automation Framework Structure**
+
 📂 DemoWebShop_Automation/
 ┣ 📂 src/main/java/
 ┃ ┣ 📂 pages/ # Page Object files (LoginPage, RegisterPage, CartPage, etc.)
@@ -100,5 +102,5 @@ Automated the critical end-to-end user flows using **Selenium WebDriver, Java, a
 - Install **IntelliJ IDEA / Eclipse**
 - Clone this repository:
   ```bash
-  git clone https://github.com/<Shivshanker869>/DemoWebShop.git
+  git clone https://github.com/Shivshanker869/DemoWebShop.git
 ```
